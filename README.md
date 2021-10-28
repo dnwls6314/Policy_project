@@ -10,12 +10,18 @@
 ---
 Data 1. Academic data(Graduate students who received bechelor degree from seoultech)
 
-Preprocessing\n
+Preprocessing
+
 Clustering
 
 Data 2. Survey data(from Undergraduate and Graduate students)
+
 Preprocessing
+
 ANOVA
+
 Supervised learning
+  
   Y is whether undergraduate students hope to apply seoultech graduate school or not.
+  
   Look at the feature importances from X
