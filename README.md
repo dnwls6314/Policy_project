@@ -9,7 +9,8 @@
 ### Data desc.
 ---
 Data 1. Academic data(Graduate students who received bechelor degree from seoultech)
-Preprocessing
+
+Preprocessing\n
 Clustering
 
 Data 2. Survey data(from Undergraduate and Graduate students)
